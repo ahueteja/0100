@@ -1,7 +1,7 @@
 # 0100
 First Repository 
 - ? Question Mark
-- @ at 
+- @ at sign 
 - $ money sign
 - % percent sign 
 - [Youtube](https://www.youtube.com/)
@@ -9,5 +9,4 @@ First Repository
 - [Youtube](https://www.theweathernetwork.com/en)
 - :stuck_out_tongue_winking_eye:
 - :smiley:
-- :grinning:
-- 
+- :grinning: 
