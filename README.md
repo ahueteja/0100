@@ -4,9 +4,9 @@ First Repository
 - @ at 
 - $ money sign
 - % percent sign 
-- https://www.youtube.com/
-- https://www.facebook.com/
-- https://www.theweathernetwork.com/en
+- [Youtube](https://www.youtube.com/)
+- [Facebook](https://www.facebook.com/)
+- [Youtube](https://www.theweathernetwork.com/en)
 - :stuck_out_tongue_winking_eye:
 - :smiley:
 - :grinning:
