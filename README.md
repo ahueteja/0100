@@ -1,5 +1,15 @@
 # 0100
 First Repository 
+- !
+- @
+- #
+- $
+- %
+- ^
+- &
+- *
+- (
+- )
 - ? Question Mark
 - @ at sign 
 - $ money sign
