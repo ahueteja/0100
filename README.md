@@ -1,19 +1,14 @@
 # 0100
 First Repository 
-- !
-- @
-- #
-- $
-- %
-- ^
-- &
-- *
-- (
-- )
-- ? Question Mark
-- @ at sign 
-- $ money sign
-- % percent sign 
+- ! Exclamation Mark 
+- @ at the rate sign
+- # Hash
+- $ Money Sign
+- % Percent 
+- ^ circumflex 
+- & And 
+- * Asterisk
+- () Parentheses 
 - [Youtube](https://www.youtube.com/)
 - [Facebook](https://www.facebook.com/)
 - [Youtube](https://www.theweathernetwork.com/en)
