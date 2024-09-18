@@ -2,12 +2,12 @@
 First Repository 
 - ! Exclamation Mark 
 - @ at the rate sign
-- # Hash
+- #Hash
 - $ Money Sign
 - % Percent 
 - ^ circumflex 
-- & And 
-- * Asterisk
+- & And
+- *Asterisk
 - () Parentheses 
 - [Youtube](https://www.youtube.com/)
 - [Facebook](https://www.facebook.com/)
