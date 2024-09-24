@@ -14,7 +14,8 @@ First Repository
 - [Youtube](https://www.theweathernetwork.com/en)
 - :stuck_out_tongue_winking_eye:
 - :smiley:
-- :grinning: 
+- :grinning:
+
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
