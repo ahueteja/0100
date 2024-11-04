@@ -1,6 +1,6 @@
 [
     {
-        "Name": "LeBron James",
+        "Name": "LeBron James", // basketball player
         "Sport": "Basketball",
         "Team Name": "Lakers",
         "Team City": "Los Angeles",
@@ -8,7 +8,7 @@
         "Age": 38
     },
     {
-        "Name": "Lionel Messi",
+        "Name": "Lionel Messi", // Soccer Player
         "Sport": "Soccer",
         "Team Name": "Inter Miami",
         "Team City": "Miami",
@@ -16,7 +16,7 @@
         "Age": 36
     },
     {
-        "Name": "Serena Williams",
+        "Name": "Serena Williams", // Tennis Player
         "Sport": "Tennis",
         "Team Name": "N/A",
         "Team City": "N/A",
@@ -24,7 +24,7 @@
         "Age": 41
     },
     {
-        "Name": "Tom Brady",
+        "Name": "Tom Brady", // Football Player 
         "Sport": "Football",
         "Team Name": "Buccaneers",
         "Team City": "Tampa Bay",
